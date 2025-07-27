@@ -354,6 +354,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Built with ❤️ by the ResumeIQ team</p>
-  <p>© 2025 ResumeIQ. All rights reserved.</p>
+  <p>Built with ❤️ by the Bytecraft team</p>
+  <p>© 2025 Bytecraft. All rights reserved.</p>
 </div>
